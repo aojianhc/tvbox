@@ -1,0 +1,119 @@
+﻿/*
+ * 影视仓接口数据
+ * 自动生成，请勿手动修改
+ * 更新时间: 2025-10-22 10:46:52
+ */
+{
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp_clean.m3u",
+            "name": "JP",
+            "updated_at": "2025-10-21 16:59:18"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/%E4%B9%9D%E5%B7%9E%E5%BD%B1%E8%A7%86.txt",
+            "name": "九州影视",
+            "updated_at": "2025-10-21 08:27:43"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/ipv6.m3u",
+            "name": "自用4",
+            "updated_at": "2025-10-21 08:22:08"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/ydtv.txt",
+            "name": "ydtv",
+            "updated_at": "2025-10-21 08:20:34"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/lvse.txt",
+            "name": "lvse",
+            "updated_at": "2025-10-21 08:20:16"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/live2.txt",
+            "name": "自用3",
+            "updated_at": "2025-10-21 08:19:31"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/myDS.txt",
+            "name": "自用2",
+            "updated_at": "2025-10-21 08:17:05"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/iptv4.txt",
+            "name": "自用1",
+            "updated_at": "2025-10-21 08:15:55"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/%E7%BE%8E%E4%B8%BD%E7%9A%84%E6%8B%98%E6%9D%9F18%EF%B9%A2.txt",
+            "name": "美丽直播",
+            "updated_at": "2025-10-21 08:11:08"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/%E4%BC%98%E8%B4%A8%E8%81%9A%E5%90%88%E7%9B%B4%E6%92%AD%E6%BA%908368.txt",
+            "name": "聚合直播",
+            "updated_at": "2025-10-21 08:10:50"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/%E5%85%A8%E7%90%83TV__%E6%97%A0%E7%A0%81.txt",
+            "name": "全球TV",
+            "updated_at": "2025-10-21 08:10:27"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/18%E6%8E%A5%E5%8F%A3.txt",
+            "name": "18接口",
+            "updated_at": "2025-10-21 08:10:04"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/18live.txt",
+            "name": "18live",
+            "updated_at": "2025-10-21 08:04:19"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/iptv4.m3u",
+            "name": "iptv4直播",
+            "updated_at": "2025-10-21 07:58:50"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/live.txt",
+            "name": "live",
+            "updated_at": "2025-10-21 07:57:25"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/yuanzl77.m3u",
+            "name": "yuanzl77直播",
+            "updated_at": "2025-10-21 07:50:12"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/ip6.m3u",
+            "name": "IP6直播",
+            "updated_at": "2025-10-21 07:50:07"
+        },
+        {
+            "url": "http://www.饭太硬.net/tv",
+            "name": "饭太硬直播",
+            "updated_at": "2025-10-21 07:50:00"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/%E7%9B%B4%E6%92%AD%E4%B8%AD%E5%9B%BD.m3u",
+            "name": "直播中国",
+            "updated_at": "2025-10-21 07:29:35"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/%E5%9B%BD%E5%A4%96%E7%94%B5%E8%A7%86%E5%8F%B0.m3u",
+            "name": "国外电视台",
+            "updated_at": "2025-10-21 07:29:22"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B0.m3u",
+            "name": "国内电视台",
+            "updated_at": "2025-10-21 07:29:07"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/TV/%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B02025.6.m3u",
+            "name": "广播电台",
+            "updated_at": "2025-10-21 07:28:55"
+        }
+    ]
+}
