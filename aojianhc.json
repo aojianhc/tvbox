@@ -1,10 +1,30 @@
 ﻿/*
  * 影视仓接口数据
  * 自动生成，请勿手动修改
- * 更新时间: 2025-10-22 10:46:52
+ * 更新时间: 2026-05-17 12:18:54
  */
 {
     "urls": [
+        {
+            "url": "https://szyyds.cn/tv/live/x.txt",
+            "name": "小马影视",
+            "updated_at": "2025-11-02 16:28:21"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+            "name": "天微M3U",
+            "updated_at": "2025-11-02 16:27:22"
+        },
+        {
+            "url": "http://47.120.41.246:8899/zb.txt",
+            "name": "IPTV直播",
+            "updated_at": "2025-11-02 16:26:31"
+        },
+        {
+            "url": "https://live.zbds.top/tv/iptv4.txt",
+            "name": "直播电视iptv4",
+            "updated_at": "2025-11-02 16:22:11"
+        },
         {
             "url": "https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp_clean.m3u",
             "name": "JP",

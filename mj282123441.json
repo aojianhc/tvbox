@@ -1,10 +1,25 @@
 ﻿/*
  * 影视仓接口数据
  * 自动生成，请勿手动修改
- * 更新时间: 2025-10-27 09:29:51
+ * 更新时间: 2026-05-17 12:19:06
  */
 {
     "urls": [
+        {
+            "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json",
+            "name": "茄子库",
+            "updated_at": "2026-04-28 16:22:28"
+        },
+        {
+            "url": "https://xn--anna-wn6lw489o.v.nxog.top/m",
+            "name": "欧歌",
+            "updated_at": "2026-03-19 16:36:22"
+        },
+        {
+            "url": "http://rihou.cc:88/demo.php",
+            "name": "日后",
+            "updated_at": "2026-03-19 16:34:45"
+        },
         {
             "url": "http://xhztv.top/xhz/",
             "name": "小盒子",
@@ -41,9 +56,9 @@
             "updated_at": "2025-10-25 10:13:13"
         },
         {
-            "url": "https://gitee.com/sd-live/zb/raw/master/js.json",
+            "url": "https://d.kstore.dev/download/15352/mj6.json",
             "name": "自用3",
-            "updated_at": "2025-10-22 07:52:11"
+            "updated_at": "2026-04-11 10:16:01"
         },
         {
             "url": "https://www.yingm.cc/dm/dm.json",
@@ -89,11 +104,6 @@
             "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
             "name": "分享者",
             "updated_at": "2025-10-17 09:33:32"
-        },
-        {
-            "url": "http://www.影视仓.com",
-            "name": "自用2",
-            "updated_at": "2025-10-10 09:42:55"
         },
         {
             "url": "https://tvbox.catvod.com/pro/demo.json",
@@ -377,8 +387,8 @@
         },
         {
             "url": "https://chuanshuo.77blog.cn/tv.json",
-            "name": "电视魔盒",
-            "updated_at": "2025-10-03 17:12:47"
+            "name": "",
+            "updated_at": "2026-05-08 22:25:11"
         },
         {
             "url": "http://www.饭太硬.net/tv",
